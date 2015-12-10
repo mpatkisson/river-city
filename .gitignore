@@ -5,3 +5,6 @@
 project.lock.json
 bin/
 obj/
+
+# GitEye
+/.project
