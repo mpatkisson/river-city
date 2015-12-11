@@ -6,5 +6,9 @@ project.lock.json
 bin/
 obj/
 
+# Mono
+*.exe
+*.exe.mdb
+
 # GitEye
-/.project
+.project
